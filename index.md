@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-redirect_from: https://minidev.de/
 ---
-Hihihihahahahaha
+
+Are you looking for [OurMIPS](/ourmips/)?

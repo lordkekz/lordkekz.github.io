@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Are you looking for [OurMIPS](/ourmips/)?
+Are you looking for [OurMIPS](/ourMIPS/)?
